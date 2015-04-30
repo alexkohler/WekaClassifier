@@ -1,0 +1,70 @@
+@relation facesFormatSource
+
+@attribute 1 numeric
+@attribute 2 numeric
+@attribute 3 numeric
+@attribute 4 numeric
+@attribute 5 numeric
+@attribute 6 numeric
+@attribute 7 numeric
+@attribute 8 numeric
+@attribute 9 numeric
+@attribute 10 numeric
+@attribute 11 numeric
+@attribute 12 numeric
+@attribute 13 numeric
+@attribute 14 numeric
+@attribute 15 numeric
+@attribute 16 numeric
+@attribute 17 numeric
+@attribute 18 numeric
+@attribute 19 numeric
+@attribute 20 numeric
+@attribute 21 numeric
+@attribute 22 numeric
+@attribute 23 numeric
+@attribute 24 numeric
+@attribute 25 numeric
+@attribute 26 numeric
+@attribute 27 numeric
+@attribute 28 numeric
+@attribute 29 numeric
+@attribute 30 numeric
+@attribute 31 numeric
+@attribute 32 numeric
+@attribute 33 numeric
+@attribute 34 numeric
+@attribute 35 numeric
+@attribute 36 numeric
+@attribute 37 numeric
+@attribute 38 numeric
+@attribute 39 numeric
+@attribute 40 numeric
+@attribute 41 numeric
+@attribute 42 numeric
+@attribute 43 numeric
+@attribute 44 numeric
+@attribute 45 numeric
+@attribute 46 numeric
+@attribute 47 numeric
+@attribute 48 numeric
+@attribute 49 numeric
+@attribute 50 numeric
+@attribute 51 numeric
+@attribute 52 numeric
+@attribute 53 numeric
+@attribute 54 numeric
+@attribute 55 numeric
+@attribute 56 numeric
+@attribute 57 numeric
+@attribute 58 numeric
+@attribute 59 numeric
+@attribute 60 numeric
+@attribute 61 numeric
+@attribute 62 numeric
+@attribute 63 numeric
+@attribute 64 numeric
+@attribute Name {Alex, unknown}
+
+@data
+0.0072453671,0.0118433886,0.0174167479,0.0200640936,0.0161627421,0.0182527518,0.016580744,0.0210394315,0.0228507733,0.0202034276,0.0206214296,0.0224327714,0.0225721053,0.0268914588,0.0287028006,0.0285634666,0.0299568065,0.033718824,0.0353908318,0.0331614881,0.0380381775,0.0346941619,0.03357949,0.0353908318,0.0366448377,0.0293994705,0.0228507733,0.0231294413,0.0182527518,0.01713808,0.0151874042,0.0179740839,0.0224327714,0.025358785,0.0212484325,0.0190887557,0.0100320468,0.0130973945,0.0125400585,0.0097533788,0.0115647206,0.0104500488,0.0103107148,0.0068273652,0.008638707,0.0068273652,0.0065486972,0.0050160234,0.0055733593,0.0036923506,0.0043890205,0.0025776787,0.0018113418,0.0015326738,0.0011146719,0.0005573359,0.0008360039,0,0,0.0008360039,0.000278668,0.000418002,0.0006270029,0.000069667,Alex
