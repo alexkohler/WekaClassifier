@@ -30,9 +30,9 @@ public class main {
 		ArrayList<Instance> persistedData = new ArrayList<Instance>();
 //		System.out.println("args are");
 		boolean fromCmd = false;
-		String dataPath = "/home/alex/workspace/c#/wekaFun/wekaFun/data.arff";
-		String trainDataPath = "/home/alex/workspace/c#/wekaFun/wekaFun/new_data.arff";
-		String testDataPath = "/home/alex/workspace/c#/wekaFun/wekaFun/testFormat.dat";
+		String dataPath = "data/data.arff";
+		String trainDataPath = "data/new_data.arff";
+		String testDataPath = "data/testFormat.dat";
 		if (args.length > 0) {
 //		 System.out.println("Running from cmd");
 		 trainDataPath = args[0];
