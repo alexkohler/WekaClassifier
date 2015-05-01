@@ -1,0 +1,72 @@
+@relation facesFormatSource
+
+@attribute 1 numeric
+@attribute 2 numeric
+@attribute 3 numeric
+@attribute 4 numeric
+@attribute 5 numeric
+@attribute 6 numeric
+@attribute 7 numeric
+@attribute 8 numeric
+@attribute 9 numeric
+@attribute 10 numeric
+@attribute 11 numeric
+@attribute 12 numeric
+@attribute 13 numeric
+@attribute 14 numeric
+@attribute 15 numeric
+@attribute 16 numeric
+@attribute 17 numeric
+@attribute 18 numeric
+@attribute 19 numeric
+@attribute 20 numeric
+@attribute 21 numeric
+@attribute 22 numeric
+@attribute 23 numeric
+@attribute 24 numeric
+@attribute 25 numeric
+@attribute 26 numeric
+@attribute 27 numeric
+@attribute 28 numeric
+@attribute 29 numeric
+@attribute 30 numeric
+@attribute 31 numeric
+@attribute 32 numeric
+@attribute 33 numeric
+@attribute 34 numeric
+@attribute 35 numeric
+@attribute 36 numeric
+@attribute 37 numeric
+@attribute 38 numeric
+@attribute 39 numeric
+@attribute 40 numeric
+@attribute 41 numeric
+@attribute 42 numeric
+@attribute 43 numeric
+@attribute 44 numeric
+@attribute 45 numeric
+@attribute 46 numeric
+@attribute 47 numeric
+@attribute 48 numeric
+@attribute 49 numeric
+@attribute 50 numeric
+@attribute 51 numeric
+@attribute 52 numeric
+@attribute 53 numeric
+@attribute 54 numeric
+@attribute 55 numeric
+@attribute 56 numeric
+@attribute 57 numeric
+@attribute 58 numeric
+@attribute 59 numeric
+@attribute 60 numeric
+@attribute 61 numeric
+@attribute 62 numeric
+@attribute 63 numeric
+@attribute 64 numeric
+@attribute Name {Alex, unknown}
+
+@data
+104,170,250,288,232,262,238,302,328,290,296,322,324,386,412,410,430,484,508,476,546,498,482,508,526,422,328,332,262,246,218,258,322,364,305,274,144,188,180,140,166,150,148,98,124,98,94,72,80,53,63,37,26,22,16,8,12,0,0,12,4,6,9,1,Alex
+100,164,284,286,234,228,280,314,312,296,292,296,324,390,396,370,490,472,524,460,558,500,492,492,518,426,316,352,242,250,222,262,334,336,305,274,156,192,172,140,164,156,128,118,108,106,106,68,84,51,66,36,22,22,21,3,12,0,0,12,4,6,9,1,Alex
+104,162,282,268,244,260,256,342,292,298,286,316,302,416,390,402,480,542,494,546,500,524,484,448,482,434,300,336,240,238,260,240,332,344,313,254,140,204,168,156,164,140,140,102,112,106,98,84,83,58,52,30,24,14,21,3,12,0,0,12,4,6,9,1,Alex
