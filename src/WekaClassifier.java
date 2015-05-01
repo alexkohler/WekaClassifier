@@ -1,18 +1,10 @@
-import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileReader;
 import java.util.ArrayList;
-import java.util.Random;
 import java.util.Scanner;
 
-import weka.classifiers.bayes.NaiveBayesUpdateable;
 import weka.classifiers.functions.LibSVM;
-import weka.classifiers.functions.SGD;
 import weka.classifiers.lazy.IBk;
-import weka.classifiers.lazy.KStar;
 import weka.classifiers.meta.MultiClassClassifier;
-import weka.classifiers.meta.MultiClassClassifierUpdateable;
-import weka.classifiers.trees.HoeffdingTree;
 import weka.core.DenseInstance;
 import weka.core.Instance;
 import weka.core.Instances;
@@ -192,25 +184,23 @@ public class WekaClassifier {
 			double[] retVal = mcc.distributionForInstance(badData); //if unclassified, returns array of size 0 
 			System.out.println(label + "(" + retVal[(int) clsLabel] + ")"); 
 
-/*			for (double d : retVal) 
-				System.out.println(d);*/
 		}
 
+/*
+ 			const String testFilePath = "/home/alex/workspace/WekaClassifier/data/testWrite.dat";
+			double[] d = new double[65];
+			for (int i = 0; i < 65; i++) {
+				d [i] = 3;
+			}
+
+			using (System.IO.StreamWriter file = new System.IO.StreamWriter(testFilePath)) {
+				Console.Write(String.Join(",", d));
+				file.Write(String.Join(",", d));
+
+			}
+ */
 
 
-
-		//Grab a csv, turn it into an arff, save it
-		/*	    System.out.println("Testing class update");
-	    	    CSVLoader csvloader = new CSVLoader();
-	    	    csvloader.setSource(new File("/home/alex/workspace/c#/wekaFun/wekaFun/facesFormatSource.csv"));
-	    	    Instances data = csvloader.getDataSet(); //multiple instances #wat
-	    	    ArffSaver saver = new ArffSaver();
-	    	    saver.setInstances(data);
-	    	    saver.setFile(new File("/home/alex/workspace/c#/wekaFun/wekaFun/actual_data.arff"));
-	    	    saver.writeBatch();*/
-
-		//http://comments.gmane.org/gmane.comp.ai.weka/7806
-		// 	   https://weka.wikispaces.com/Multi-instance+classification
 
 	}
 }
